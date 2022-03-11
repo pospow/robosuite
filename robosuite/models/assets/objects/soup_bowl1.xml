@@ -1,0 +1,131 @@
+<mujoco model="soup1">
+  <asset>
+    <mesh file="meshes/soup1/Soup_Bowl1_000.stl" name="soup1_0_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_001.stl" name="soup1_1_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_002.stl" name="soup1_2_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_003.stl" name="soup1_3_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_004.stl" name="soup1_4_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_006.stl" name="soup1_5_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_007.stl" name="soup1_6_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_008.stl" name="soup1_7_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_009.stl" name="soup1_8_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_011.stl" name="soup1_9_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_012.stl" name="soup1_10_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_013.stl" name="soup1_11_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_015.stl" name="soup1_12_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_016.stl" name="soup1_13_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_018.stl" name="soup1_14_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_019.stl" name="soup1_15_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_020.stl" name="soup1_16_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_021.stl" name="soup1_17_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_022.stl" name="soup1_18_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_023.stl" name="soup1_19_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_024.stl" name="soup1_20_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_026.stl" name="soup1_21_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_027.stl" name="soup1_22_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_028.stl" name="soup1_23_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_030.stl" name="soup1_24_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_031.stl" name="soup1_25_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_032.stl" name="soup1_26_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_034.stl" name="soup1_27_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_035.stl" name="soup1_28_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_036.stl" name="soup1_29_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_038.stl" name="soup1_30_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_039.stl" name="soup1_31_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_040.stl" name="soup1_32_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_041.stl" name="soup1_33_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_042.stl" name="soup1_34_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_043.stl" name="soup1_35_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_044.stl" name="soup1_36_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_045.stl" name="soup1_37_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_046.stl" name="soup1_38_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_048.stl" name="soup1_39_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_050.stl" name="soup1_40_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_051.stl" name="soup1_41_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_052.stl" name="soup1_42_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_054.stl" name="soup1_43_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_055.stl" name="soup1_44_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_056.stl" name="soup1_45_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_058.stl" name="soup1_46_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_059.stl" name="soup1_47_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_060.stl" name="soup1_48_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_061.stl" name="soup1_49_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_062.stl" name="soup1_50_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_063.stl" name="soup1_51_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_064.stl" name="soup1_52_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_065.stl" name="soup1_53_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_067.stl" name="soup1_54_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_068.stl" name="soup1_55_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_069.stl" name="soup1_56_mesh" scale="0.9 0.9 0.9"/>
+    <mesh file="meshes/soup1/Soup_Bowl1_071.stl" name="soup1_57_mesh" scale="0.9 0.9 0.9"/>
+    <texture file="../textures/ceramic.png" name="tex-ceramic"/>
+    <material name="ceramic" reflectance="0.5" texrepeat="1 1" texture="tex-ceramic" texuniform="true"/>
+  </asset>
+  <worldbody>
+    <body>
+      <body name="object">
+        <geom pos="0 0 0" mesh="soup1_0_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_1_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_2_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_3_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_4_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_5_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_6_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_7_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_8_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_9_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_10_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_11_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_12_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_13_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_14_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_15_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_16_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_17_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_18_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_19_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_20_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_21_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_22_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_23_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_24_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_25_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_26_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_27_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_28_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_29_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_30_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_31_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_32_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_33_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_34_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_35_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_36_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_37_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_38_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_39_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_40_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_41_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_42_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_43_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_44_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_45_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_46_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_47_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_48_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_49_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_50_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_51_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_52_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_53_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_54_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_55_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_56_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+        <geom pos="0 0 0" mesh="soup1_57_mesh" type="mesh" solimp="0.998 0.998 0.001" solref="0.001 1" density="100" friction="0.95 0.3 0.1" material="ceramic" group="0" condim="3"/>
+      </body>
+      <site rgba="0 0 0 0" size="0.005" pos="0 0 -0.105" name="bottom_site"/>
+      <site rgba="0 0 0 0" size="0.005" pos="0 0 0.075" name="top_site"/>
+      <site rgba="0 0 0 0" size="0.005" pos="0.025 0.025 0" name="horizontal_radius_site"/>
+    </body>
+  </worldbody>
+</mujoco>
